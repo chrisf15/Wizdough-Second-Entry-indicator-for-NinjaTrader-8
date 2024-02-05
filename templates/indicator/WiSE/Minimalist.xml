@@ -1,0 +1,273 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<NinjaTrader>
+  <WiSE>
+    <WiSE xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+      <IsVisible>true</IsVisible>
+      <AreLinesConfigurable>true</AreLinesConfigurable>
+      <ArePlotsConfigurable>true</ArePlotsConfigurable>
+      <BarsPeriodSerializable>
+        <BarsPeriodTypeSerialize>4</BarsPeriodTypeSerialize>
+        <BaseBarsPeriodType>Minute</BaseBarsPeriodType>
+        <BaseBarsPeriodValue>1</BaseBarsPeriodValue>
+        <VolumetricDeltaType>BidAsk</VolumetricDeltaType>
+        <MarketDataType>Last</MarketDataType>
+        <PointAndFigurePriceType>Close</PointAndFigurePriceType>
+        <ReversalType>Tick</ReversalType>
+        <Value>2</Value>
+        <Value2>1</Value2>
+      </BarsPeriodSerializable>
+      <BarsToLoad>0</BarsToLoad>
+      <DisplayInDataBox>true</DisplayInDataBox>
+      <From>2099-12-01T00:00:00</From>
+      <Panel>-1</Panel>
+      <ScaleJustification>Right</ScaleJustification>
+      <ShowTransparentPlotsInDataBox>true</ShowTransparentPlotsInDataBox>
+      <To>1800-01-01T00:00:00</To>
+      <Calculate>OnEachTick</Calculate>
+      <Displacement>0</Displacement>
+      <IsAutoScale>false</IsAutoScale>
+      <IsDataSeriesRequired>true</IsDataSeriesRequired>
+      <IsOverlay>true</IsOverlay>
+      <Lines />
+      <MaximumBarsLookBack>TwoHundredFiftySix</MaximumBarsLookBack>
+      <Name>WiSE</Name>
+      <Plots>
+        <Plot>
+          <IsOpacityVisible>false</IsOpacityVisible>
+          <BrushSerialize>&lt;SolidColorBrush xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"&gt;#00FFFFFF&lt;/SolidColorBrush&gt;</BrushSerialize>
+          <DashStyleHelper>Solid</DashStyleHelper>
+          <Opacity>100</Opacity>
+          <Width>4</Width>
+          <AutoWidth>true</AutoWidth>
+          <Max>1.7976931348623157E+308</Max>
+          <Min>-1.7976931348623157E+308</Min>
+          <Name>Signal 1</Name>
+          <PlotStyle>Bar</PlotStyle>
+        </Plot>
+        <Plot>
+          <IsOpacityVisible>false</IsOpacityVisible>
+          <BrushSerialize>&lt;SolidColorBrush xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"&gt;#00FFFFFF&lt;/SolidColorBrush&gt;</BrushSerialize>
+          <DashStyleHelper>Solid</DashStyleHelper>
+          <Opacity>100</Opacity>
+          <Width>4</Width>
+          <AutoWidth>true</AutoWidth>
+          <Max>1.7976931348623157E+308</Max>
+          <Min>-1.7976931348623157E+308</Min>
+          <Name>Signal 2</Name>
+          <PlotStyle>Bar</PlotStyle>
+        </Plot>
+        <Plot>
+          <IsOpacityVisible>false</IsOpacityVisible>
+          <BrushSerialize>&lt;SolidColorBrush xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"&gt;#00FFFFFF&lt;/SolidColorBrush&gt;</BrushSerialize>
+          <DashStyleHelper>Solid</DashStyleHelper>
+          <Opacity>100</Opacity>
+          <Width>4</Width>
+          <AutoWidth>true</AutoWidth>
+          <Max>1.7976931348623157E+308</Max>
+          <Min>-1.7976931348623157E+308</Min>
+          <Name>Signal 3</Name>
+          <PlotStyle>Bar</PlotStyle>
+        </Plot>
+        <Plot>
+          <IsOpacityVisible>false</IsOpacityVisible>
+          <BrushSerialize>&lt;SolidColorBrush xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"&gt;#00FFFFFF&lt;/SolidColorBrush&gt;</BrushSerialize>
+          <DashStyleHelper>Solid</DashStyleHelper>
+          <Opacity>100</Opacity>
+          <Width>4</Width>
+          <AutoWidth>true</AutoWidth>
+          <Max>1.7976931348623157E+308</Max>
+          <Min>-1.7976931348623157E+308</Min>
+          <Name>Signal 4</Name>
+          <PlotStyle>Bar</PlotStyle>
+        </Plot>
+        <Plot>
+          <IsOpacityVisible>false</IsOpacityVisible>
+          <BrushSerialize>&lt;SolidColorBrush xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"&gt;#00FFFFFF&lt;/SolidColorBrush&gt;</BrushSerialize>
+          <DashStyleHelper>Solid</DashStyleHelper>
+          <Opacity>100</Opacity>
+          <Width>4</Width>
+          <AutoWidth>true</AutoWidth>
+          <Max>1.7976931348623157E+308</Max>
+          <Min>-1.7976931348623157E+308</Min>
+          <Name>Signal 5</Name>
+          <PlotStyle>Bar</PlotStyle>
+        </Plot>
+        <Plot>
+          <IsOpacityVisible>false</IsOpacityVisible>
+          <BrushSerialize>&lt;SolidColorBrush xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"&gt;#00FFFFFF&lt;/SolidColorBrush&gt;</BrushSerialize>
+          <DashStyleHelper>Solid</DashStyleHelper>
+          <Opacity>100</Opacity>
+          <Width>4</Width>
+          <AutoWidth>true</AutoWidth>
+          <Max>1.7976931348623157E+308</Max>
+          <Min>-1.7976931348623157E+308</Min>
+          <Name>Signal 6</Name>
+          <PlotStyle>Bar</PlotStyle>
+        </Plot>
+        <Plot>
+          <IsOpacityVisible>false</IsOpacityVisible>
+          <BrushSerialize>&lt;SolidColorBrush xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"&gt;#00FFFFFF&lt;/SolidColorBrush&gt;</BrushSerialize>
+          <DashStyleHelper>Solid</DashStyleHelper>
+          <Opacity>100</Opacity>
+          <Width>4</Width>
+          <AutoWidth>true</AutoWidth>
+          <Max>1.7976931348623157E+308</Max>
+          <Min>-1.7976931348623157E+308</Min>
+          <Name>Signal 7</Name>
+          <PlotStyle>Bar</PlotStyle>
+        </Plot>
+        <Plot>
+          <IsOpacityVisible>false</IsOpacityVisible>
+          <BrushSerialize>&lt;SolidColorBrush xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"&gt;#00FFFFFF&lt;/SolidColorBrush&gt;</BrushSerialize>
+          <DashStyleHelper>Solid</DashStyleHelper>
+          <Opacity>100</Opacity>
+          <Width>4</Width>
+          <AutoWidth>true</AutoWidth>
+          <Max>1.7976931348623157E+308</Max>
+          <Min>-1.7976931348623157E+308</Min>
+          <Name>Signal 8</Name>
+          <PlotStyle>Bar</PlotStyle>
+        </Plot>
+        <Plot>
+          <IsOpacityVisible>false</IsOpacityVisible>
+          <BrushSerialize>&lt;SolidColorBrush xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"&gt;#00FFFFFF&lt;/SolidColorBrush&gt;</BrushSerialize>
+          <DashStyleHelper>Solid</DashStyleHelper>
+          <Opacity>100</Opacity>
+          <Width>4</Width>
+          <AutoWidth>true</AutoWidth>
+          <Max>1.7976931348623157E+308</Max>
+          <Min>-1.7976931348623157E+308</Min>
+          <Name>Signal 9</Name>
+          <PlotStyle>Bar</PlotStyle>
+        </Plot>
+        <Plot>
+          <IsOpacityVisible>false</IsOpacityVisible>
+          <BrushSerialize>&lt;SolidColorBrush xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"&gt;#00FFFFFF&lt;/SolidColorBrush&gt;</BrushSerialize>
+          <DashStyleHelper>Solid</DashStyleHelper>
+          <Opacity>100</Opacity>
+          <Width>4</Width>
+          <AutoWidth>true</AutoWidth>
+          <Max>1.7976931348623157E+308</Max>
+          <Min>-1.7976931348623157E+308</Min>
+          <Name>Signal 10</Name>
+          <PlotStyle>Bar</PlotStyle>
+        </Plot>
+        <Plot>
+          <IsOpacityVisible>false</IsOpacityVisible>
+          <BrushSerialize>&lt;SolidColorBrush xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"&gt;#00FFFFFF&lt;/SolidColorBrush&gt;</BrushSerialize>
+          <DashStyleHelper>Solid</DashStyleHelper>
+          <Opacity>100</Opacity>
+          <Width>4</Width>
+          <AutoWidth>false</AutoWidth>
+          <Max>1.7976931348623157E+308</Max>
+          <Min>-1.7976931348623157E+308</Min>
+          <Name>Signal 11</Name>
+          <PlotStyle>Bar</PlotStyle>
+        </Plot>
+        <Plot>
+          <IsOpacityVisible>false</IsOpacityVisible>
+          <BrushSerialize>&lt;SolidColorBrush xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"&gt;#00FFFFFF&lt;/SolidColorBrush&gt;</BrushSerialize>
+          <DashStyleHelper>Solid</DashStyleHelper>
+          <Opacity>100</Opacity>
+          <Width>4</Width>
+          <AutoWidth>false</AutoWidth>
+          <Max>1.7976931348623157E+308</Max>
+          <Min>-1.7976931348623157E+308</Min>
+          <Name>Signal 12</Name>
+          <PlotStyle>Bar</PlotStyle>
+        </Plot>
+      </Plots>
+      <SelectedValueSeries>0</SelectedValueSeries>
+      <InputPlot>0</InputPlot>
+      <IsTradingHoursBreakLineVisible>true</IsTradingHoursBreakLineVisible>
+      <DrawHorizontalGridLines>true</DrawHorizontalGridLines>
+      <DrawVerticalGridLines>true</DrawVerticalGridLines>
+      <DrawOnPricePanel>true</DrawOnPricePanel>
+      <PaintPriceMarkers>true</PaintPriceMarkers>
+      <ChartHashCodeDeserialized>0</ChartHashCodeDeserialized>
+      <IndicatorId>1406</IndicatorId>
+      <MaxSerialized>0</MaxSerialized>
+      <MinSerialized>0</MinSerialized>
+      <ZOrder>-2147483648</ZOrder>
+      <TextFont>
+        <Bold>false</Bold>
+        <FamilySerialize>#Montserrat</FamilySerialize>
+        <Italic>false</Italic>
+        <Size>14</Size>
+      </TextFont>
+      <SymbolPadding>8</SymbolPadding>
+      <IsEngulfSwing>false</IsEngulfSwing>
+      <ShowHistory>false</ShowHistory>
+      <LongEntryColorSerializable>&lt;SolidColorBrush xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"&gt;#FF008000&lt;/SolidColorBrush&gt;</LongEntryColorSerializable>
+      <ShortEntryColorSerializable>&lt;SolidColorBrush xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"&gt;#FFFF0000&lt;/SolidColorBrush&gt;</ShortEntryColorSerializable>
+      <GrayColorSerializable>&lt;SolidColorBrush xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"&gt;#FFFFFF00&lt;/SolidColorBrush&gt;</GrayColorSerializable>
+      <FilterColorSerializable>&lt;SolidColorBrush xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"&gt;#FF696969&lt;/SolidColorBrush&gt;</FilterColorSerializable>
+      <ShowSymbols>true</ShowSymbols>
+      <EntrySwingFrom>2</EntrySwingFrom>
+      <IsResetDoubleTop>true</IsResetDoubleTop>
+      <IsFindSignalBar>true</IsFindSignalBar>
+      <UseEngulfing>true</UseEngulfing>
+      <ProfitTarget>4</ProfitTarget>
+      <HideLong>false</HideLong>
+      <HideShort>false</HideShort>
+      <MaxHLCount>1</MaxHLCount>
+      <MaxEntryCount>2</MaxEntryCount>
+      <HideIB>true</HideIB>
+      <Hide01>true</Hide01>
+      <CHCLRatio>30</CHCLRatio>
+      <HideRisk>0</HideRisk>
+      <SymbolNH />
+      <SymbolNL />
+      <SymbolFEL />
+      <SymbolFES />
+      <SymbolSEL>2</SymbolSEL>
+      <SymbolSES>2</SymbolSES>
+      <SymbolLH />
+      <SymbolHL />
+      <SymbolFSEL />
+      <SymbolFSES />
+      <SymbolCSEL>2</SymbolCSEL>
+      <SymbolCSES>2</SymbolCSES>
+      <SymbolISEL />
+      <SymbolISES />
+      <SymbolEBL />
+      <SymbolEBS />
+      <EnableAlert1>false</EnableAlert1>
+      <FileAlert1>C:\Program Files\NinjaTrader 8\sounds\Alert2.wav</FileAlert1>
+      <EnableAlert2>false</EnableAlert2>
+      <FileAlert2>C:\Program Files\NinjaTrader 8\sounds\Alert2.wav</FileAlert2>
+      <EnableAlert3>false</EnableAlert3>
+      <FileAlert3>C:\Program Files\NinjaTrader 8\sounds\Alert2.wav</FileAlert3>
+      <EnableAlert4>false</EnableAlert4>
+      <FileAlert4>C:\Program Files\NinjaTrader 8\sounds\Alert2.wav</FileAlert4>
+      <EnableAlert5>false</EnableAlert5>
+      <FileAlert5>C:\Program Files\NinjaTrader 8\sounds\Alert2.wav</FileAlert5>
+      <EnableAlert6>false</EnableAlert6>
+      <FileAlert6>C:\Program Files\NinjaTrader 8\sounds\Alert2.wav</FileAlert6>
+      <EnableAlert7>false</EnableAlert7>
+      <FileAlert7>C:\Program Files\NinjaTrader 8\sounds\Alert2.wav</FileAlert7>
+      <EnableAlert8>false</EnableAlert8>
+      <FileAlert8>C:\Program Files\NinjaTrader 8\sounds\Alert2.wav</FileAlert8>
+      <EnableAlert9>false</EnableAlert9>
+      <FileAlert9>C:\Program Files\NinjaTrader 8\sounds\Alert2.wav</FileAlert9>
+      <EnableAlert10>false</EnableAlert10>
+      <FileAlert10>C:\Program Files\NinjaTrader 8\sounds\Alert2.wav</FileAlert10>
+      <EnableAlert11>false</EnableAlert11>
+      <FileAlert11>C:\Program Files\NinjaTrader 8\sounds\Alert2.wav</FileAlert11>
+      <EnableAlert12>false</EnableAlert12>
+      <FileAlert12>C:\Program Files\NinjaTrader 8\sounds\Alert2.wav</FileAlert12>
+      <Alert1>Off</Alert1>
+      <Alert2>Off</Alert2>
+      <Alert3>Off</Alert3>
+      <Alert4>Off</Alert4>
+      <Alert5>Off</Alert5>
+      <Alert6>Off</Alert6>
+      <Alert7>Off</Alert7>
+      <Alert8>Off</Alert8>
+      <Alert9>Off</Alert9>
+      <Alert10>Off</Alert10>
+      <Alert11>Off</Alert11>
+      <Alert12>Off</Alert12>
+    </WiSE>
+  </WiSE>
+</NinjaTrader>
